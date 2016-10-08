@@ -1,1 +1,2 @@
-a=1+1
+a=1+2
+print "xiao ming shi sao zhu"
