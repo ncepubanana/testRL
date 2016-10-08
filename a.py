@@ -1,2 +1,2 @@
 a=1+2
-print "xiao ming shi sao zhu"
+print "xiao ming bu shi sao zhu, shi da sao zhu"
